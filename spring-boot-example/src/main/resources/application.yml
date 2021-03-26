@@ -1,0 +1,14 @@
+#spring:
+#  datasource:
+#    username: hbstudent
+#    password: hbstudent
+#    url: jdbc:mysql://localhost:3307/javatechie
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL5Dialect
